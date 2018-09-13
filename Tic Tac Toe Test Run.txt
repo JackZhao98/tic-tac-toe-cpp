@@ -1,0 +1,276 @@
+Welcome to Tic-Tac-Toe!
+Use number 1 - 9 to input marks, press 0 for hint.
+
+   |   |   
+------------
+   |   |   
+------------
+   |   |   
+
+
+Choose game mode:
+  [1] AI VS AI
+  [2] Player VS AI
+  [3] AI VS AI Simulation
+1
+   |   |   
+------------
+   |   |   
+------------
+   |   |   
+
+
+ X |   |   
+------------
+   |   |   
+------------
+   |   |   
+
+
+ X |   |   
+------------
+   | O |   
+------------
+   |   |   
+
+
+ X | X |   
+------------
+   | O |   
+------------
+   |   |   
+
+
+ X | X | O 
+------------
+   | O |   
+------------
+   |   |   
+
+
+ X | X | O 
+------------
+   | O |   
+------------
+ X |   |   
+
+
+ X | X | O 
+------------
+ O | O |   
+------------
+ X |   |   
+
+
+ X | X | O 
+------------
+ O | O | X 
+------------
+ X |   |   
+
+
+ X | X | O 
+------------
+ O | O | X 
+------------
+ X | O |   
+
+
+ X | X | O 
+------------
+ O | O | X 
+------------
+ X | O | X 
+
+
+X-O DRAW!
+
+ X | X | O 
+------------
+ O | O | X 
+------------
+ X | O | X 
+
+
+One more game? Y/N (N): y
+Welcome to Tic-Tac-Toe!
+Use number 1 - 9 to input marks, press 0 for hint.
+
+   |   |   
+------------
+   |   |   
+------------
+   |   |   
+
+
+Choose game mode:
+  [1] AI VS AI
+  [2] Player VS AI
+  [3] AI VS AI Simulation
+2
+Choose your marker:
+  [1] O
+  [2] X
+2
+Choose game difficulty:
+  [1] Easy AS Fk
+  [2] Medium
+  [3] Hard Mode
+3
+   |   |   
+------------
+   |   |   
+------------
+   |   |   
+
+
+
+Your turn! Choose wisely: 2
+   | X |   
+------------
+   |   |   
+------------
+   |   |   
+
+
+ O | X |   
+------------
+   |   |   
+------------
+   |   |   
+
+
+
+Your turn! Choose wisely: 1
+Place has been taken, try again.
+
+Your turn! Choose wisely: 10
+Invalid number, enter number between 1 - 9!
+
+Your turn! Choose wisely: 5
+ O | X |   
+------------
+   | X |   
+------------
+   |   |   
+
+
+ O | X |   
+------------
+   | X |   
+------------
+   | O |   
+
+
+
+Your turn! Choose wisely: 0
+ O | X |   
+------------
+ ? | X |   
+------------
+   | O |   
+
+
+
+Your turn! Choose wisely: 4
+ O | X |   
+------------
+ X | X |   
+------------
+   | O |   
+
+
+ O | X |   
+------------
+ X | X | O 
+------------
+   | O |   
+
+
+
+Your turn! Choose wisely: 0
+ O | X | ? 
+------------
+ X | X | O 
+------------
+   | O |   
+
+
+
+Your turn! Choose wisely: 3
+ O | X | X 
+------------
+ X | X | O 
+------------
+   | O |   
+
+
+ O | X | X 
+------------
+ X | X | O 
+------------
+ O | O |   
+
+
+
+Your turn! Choose wisely: 9
+ O | X | X 
+------------
+ X | X | O 
+------------
+ O | O | X 
+
+
+X-O DRAW!
+
+ O | X | X 
+------------
+ X | X | O 
+------------
+ O | O | X 
+
+
+One more game? Y/N (N): y
+Welcome to Tic-Tac-Toe!
+Use number 1 - 9 to input marks, press 0 for hint.
+
+   |   |   
+------------
+   |   |   
+------------
+   |   |   
+
+
+Choose game mode:
+  [1] AI VS AI
+  [2] Player VS AI
+  [3] AI VS AI Simulation
+3
+   |   |   
+------------
+   |   |   
+------------
+   |   |   
+
+
+Set simulation times: 1000
+Set player X's depth: 4
+Set player O's depth: 6
+10% Complete. (100/1000)
+20% Complete. (200/1000)
+30% Complete. (300/1000)
+40% Complete. (400/1000)
+50% Complete. (500/1000)
+60% Complete. (600/1000)
+70% Complete. (700/1000)
+80% Complete. (800/1000)
+90% Complete. (900/1000)
+100% Complete. (1000/1000)
+
+Simulation is over!
+Total 1000 times.
+ -- X wins 0 games.
+ -- O wins 223 games.
+ -- X O Draw 777 games.
+One more game? Y/N (N): n
+Program ended with exit code: 0
